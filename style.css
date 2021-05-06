@@ -1,0 +1,29 @@
+.mes{
+    border-image-width:200px ;
+}
+.logo.png{
+    border-image-width: 200px;
+}
+.background{
+    text-align: center;
+    background-color: blue;
+}
+.login_div{
+    text-align: center;
+}
+.form-group{
+    text-align: center;
+}
+#login_button{
+    text-align: center;
+}
+.fire{
+    background-color: blue;
+    text-align: center;
+}
+#noddy{
+    background-color: blue;
+}
+.usertick{
+    border-image-width: 30px;
+}
